@@ -1,4 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
 header{
-    background-color: aqua;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(76, 128, 17);
+    color: rgb(31, 255, 42);
+    font-size: 25px;
+    border-bottom: solid 2px rgb(133, 219, 51);
+    padding: 20px;
+    height: 30px;
+
+
+}
+
+
+.chamada{
+    display: flex;
+    just
 }
