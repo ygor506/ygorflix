@@ -18,5 +18,6 @@ header{
 
 .chamada{
     display: flex;
-    just
+    justify-content: center;
+    
 }
