@@ -15,9 +15,18 @@ header{
 
 }
 
-
 .chamada{
     display: flex;
     justify-content: center;
     
+}
+
+img{
+    height: 250px;
+}
+
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 15px;
 }
